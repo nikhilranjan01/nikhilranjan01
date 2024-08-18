@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **Frontend Development Projects**
+- 👯 I’m looking to collaborate on **Web Devlopment Projects**
 
 - 📫 How to reach me **nikhilranjan2004@gmail.com**
 
