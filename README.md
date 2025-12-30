@@ -18,9 +18,7 @@
 <a href="https://linkedin.com/in/nikhil-ranjan-bb83b025a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-ranjan-bb83b025a" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nikhil.ranjan.560272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nikhil.ranjan.560272" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhil_ranjan_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nikhil_ranjan_01/" height="30" width="40" /></a>
-<a href="https://leetcode.com/nikhilranjan01/" target="blank">
-  <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg"alt="https://leetcode.com/nikhilranjan01/"height="30"width="40" />
-</a>
+<a href="https://www.leetcode.com/nikhilranjan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilranjan01" height="30" width="40" /></a>
 
 </p>
 
